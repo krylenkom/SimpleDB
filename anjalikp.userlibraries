@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="lib">
+    <archive path="D:/Job/RAC/Java/anjalikp/cs582project/lib/zql.jar" />
+    <archive path="D:/Job/RAC/Java/anjalikp/cs582project/lib/jline-0.9.94.jar" />
+    <archive path="D:/Job/RAC/Java/anjalikp/cs582project/lib/junit-4.5.jar" />
+  </library>
+</eclipse-userlibraries>
+
